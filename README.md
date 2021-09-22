@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alvan@rahim.li**
 
-- 📄 Know about my experiences [https://rahim.li/resume](https://rahim.li/resume)
+- 📄 Get my [CV](https://cv.rahim.li)
 
 - ⚡ Fun fact **I use Arch btw.**
 
