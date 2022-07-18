@@ -1,7 +1,7 @@
 # Hi 👋, I'm Alvan Rahimli
 ## I am a Software Engineer & GNU/Linux enthusiast
 
-- 🔭 I’m currently working on [Bilgin.Az](https://www.bilgin.az)
+- 🔭 I’m currently working on startups
 - 🌱 I’m currently learning **Go, Microservices architecture & Kubernetes**
 - 👨‍💻 All of my projects are available at [https://github.com/alvanrahimli](https://github.com/alvanrahimli)
 - 📝 I regularly write articles on [https://rahim.li](https://rahim.li)
