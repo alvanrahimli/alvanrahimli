@@ -13,3 +13,8 @@
 ## Connect with me via:
 - Email: alvan@rahim.li
 - Facebook: [here](https://facebook.com/alvan.rahimli)
+
+## the end of an era 
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/alvanrahimli/alvanrahimli/blob/master/Stallman.jpg?raw=true');]{x0000}$}
