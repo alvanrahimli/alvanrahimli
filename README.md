@@ -6,4 +6,4 @@ I occasionally write at [https://rahim.li](https://rahim.li)
 
 ## Contact:
 Email: sayhi@rahim.li\
-Fediverse: [@alvan@500.social](https://500.social/@alvan)
+Fediverse: [@alvan@social.lol](https://social.lol/@alvan)
